@@ -2,6 +2,7 @@
 
 ## 👥 Team Information  
 **Team Name:** Livability Research Men
+** Group Number:** Group 27   
 
 **Team Members:**  
 - Zihan Yuan — ZIY118@pitt.edu
