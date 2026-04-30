@@ -40,12 +40,12 @@ In this project, we aim to find the "best" neighborhood in Pittsburgh. We define
 
 - **Final Notebook**  
   `Final Notebook Group27.ipynb`  
-  → Contains the final results, visualizations, and conclusions.  
+  → Contains the final results, visualizations, and conclusions.  (Done by the whole group)
 
 - **Sub-metric Notebooks**  
-  - `Sub-metric Crime.ipynb` → Crime analysis  
-  - `Sub-metric Tree.ipynb` → Environmental analysis  
-  - `Sub-metric convenience.ipynb` → Accessibility analysis  
+  - `Sub-metric Crime.ipynb` → Crime analysis  (Done by Zihan)
+  - `Sub-metric Tree.ipynb` → Environmental analysis  (Done by Marcos)
+  - `Sub-metric convenience.ipynb` → Accessibility analysis  (Done by Yuzhe)
 
 ---
 
