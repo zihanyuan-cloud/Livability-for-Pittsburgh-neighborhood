@@ -1,7 +1,7 @@
 # Livability for Pittsburgh Neighborhood
 
 ## 👥 Team Information  
-**Team Name:** Livability Researach Men
+**Team Name:** Livability Research Men
 
 **Team Members:**  
 - Zihan Yuan — ZIY118@pitt.edu
