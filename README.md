@@ -48,18 +48,6 @@ In this project, we aim to find the "best" neighborhood in Pittsburgh. We define
   - `Sub-metric convenience.ipynb` → Accessibility analysis  (Done by Yuzhe)
 
 ---
+⚙️ Repository Structure
 
-## ⚙️ Repository Structure  
-Group27 CMPINF11/
-│
-├── Final Notebook Group27.ipynb
-├── Sub-metric Crime.ipynb
-├── Sub-metric Tree.ipynb
-├── Sub-metric convenience.ipynb
-│
-├── Dataset.zip
-    ├──incidents_2024_thru_mar2026.xlsx
-    ├── Pittsburgh_Trees.csv
-    ├── neighborhoods.geojson
-    ├── stops.geojson
-    ├── neighborhoods_size.csv
+Livability-for-Pittsburgh-neighborhood/ │ ├── Final Notebook Group27.ipynb ├── Sub-metric Crime.ipynb ├── Sub-metric Tree.ipynb ├── Sub-metric convenience.ipynb │ ├── incidents_2024_thru_mar2026.xlsx ├── Pittsburgh_Trees.csv ├── neighborhoods.geojson ├── neighborhoods_size.csv ├── stops.geojson │ └── README.md
